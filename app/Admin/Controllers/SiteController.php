@@ -78,6 +78,7 @@ class SiteController extends Controller
     protected function grid()
     {
         $grid = new Grid(new Site);
+        $grid->sortable();
 
         $grid->id('ID');
         $grid->category()->title('分类');
