@@ -51,6 +51,7 @@
                     <span class="tooltip-blue">关于本站</span>
                     <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
                 </a>
+{{--                <img src="{{ asset('img/wechat.jpg') }}" width="80%" alt=""/>--}}
             </div>
         </ul>
     </div>
