@@ -6,14 +6,15 @@
     <div class="footer-inner">
         <!-- Add your copyright text here -->
         <div class="footer-text">
-            &copy; {{ date('Y') }}
-            <a href="/">
-                <strong>{{ env('APP_NAME') }}</strong>
-            </a> design by
-            <a href="https://github.com/hui-ho" target="_blank">
-                <strong>hui-ho</strong>
+            Copyright &copy; {{ date('Y') }}
+            <a href="https://github.com/colining" target="_blank">
+                <strong>Colin</strong>
+            </a> All Rights Reserved.
+
+            Theme by
+            <a href="https://github.com/hui-ho/WebStack-Laravel">
+                <strong>WebStack</strong>
             </a>
-            <span>{{ config('icp_record') }}</span>
             <!--  - Purchase for only <strong>23$</strong> -->
         </div>
         <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
