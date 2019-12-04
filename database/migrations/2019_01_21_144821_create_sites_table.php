@@ -15,6 +15,7 @@ class CreateSitesTable extends Migration
     {
         Schema::create('sites', function (Blueprint $table) {
             $table->increments('id');
+            $table->integer('order');
             $table->integer('category_id');
             $table->string('title', 50);
             $table->string('thumb', 200)->nullable();
