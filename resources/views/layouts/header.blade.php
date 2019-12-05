@@ -10,6 +10,7 @@
     <link rel="preload" href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic" as="font">
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     <script src="{{ mix('js/app.js') }}"></script>
+    <link rel="stylesheet" href="css/search.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

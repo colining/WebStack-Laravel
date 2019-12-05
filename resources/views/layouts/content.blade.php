@@ -1,3 +1,5 @@
+<script type="text/javascript" src="/js/search.js"></script>
+
 @foreach($categories as $category)
 
     @if(count($category->sites) != 0)
