@@ -25583,3 +25583,9 @@ button.toast-close-button {
     /*margin-bottom: 20px;*/
     /*bottom: 0;*/
 }
+.user-info-navbar .user-info-menu.left-links .weather{
+    display: flex;/*Flex布局*/
+    display: -webkit-flex; /* Safari */
+    align-items:center;/*指定垂直居中*/
+    z-index: 1;
+}

@@ -19,6 +19,11 @@
                             <i class="fa-bars"></i>
                         </a>
                     </li>
+                    <li class="weather">
+                        <div id="he-plugin-simple"></div>
+                        <script type="text/javascript" src="/js/weather.js"></script>
+                        <script src="https://widget.heweather.net/simple/static/js/he-simple-common.js?v=1.1"></script>
+                    </li>
                 </ul>
             </nav>
 
