@@ -327,7 +327,7 @@ class CategoriesTableSeeder extends Seeder
                 'created_at' => '2019-11-12 13:36:25',
                 'updated_at' => '2019-11-12 13:36:32',
             ),
-            31 => 
+            1 => 
             array (
                 'id' => 32,
                 'parent_id' => 0,
@@ -337,7 +337,7 @@ class CategoriesTableSeeder extends Seeder
                 'created_at' => '2019-11-13 14:29:58',
                 'updated_at' => '2019-12-01 15:40:46',
             ),
-            32 => 
+            2 => 
             array (
                 'id' => 33,
                 'parent_id' => 0,
@@ -347,7 +347,7 @@ class CategoriesTableSeeder extends Seeder
                 'created_at' => '2019-11-16 10:26:45',
                 'updated_at' => '2019-11-30 15:48:33',
             ),
-            33 => 
+            3 => 
             array (
                 'id' => 34,
                 'parent_id' => 0,
@@ -357,7 +357,7 @@ class CategoriesTableSeeder extends Seeder
                 'created_at' => '2019-11-30 15:20:04',
                 'updated_at' => '2019-11-30 15:49:12',
             ),
-            34 => 
+            4 => 
             array (
                 'id' => 35,
                 'parent_id' => 0,
@@ -367,7 +367,7 @@ class CategoriesTableSeeder extends Seeder
                 'created_at' => '2019-11-30 15:35:26',
                 'updated_at' => '2019-11-30 15:35:33',
             ),
-            35 => 
+            5 => 
             array (
                 'id' => 36,
                 'parent_id' => 0,
@@ -376,6 +376,16 @@ class CategoriesTableSeeder extends Seeder
                 'icon' => 'fa-bomb',
                 'created_at' => '2019-12-01 15:40:35',
                 'updated_at' => '2019-12-01 15:40:46',
+            ),
+            6 => 
+            array (
+                'id' => 37,
+                'parent_id' => 0,
+                'order' => 0,
+                'title' => '庆余年',
+                'icon' => 'fa-star-o',
+                'created_at' => '2019-12-19 08:07:00',
+                'updated_at' => '2019-12-19 08:07:00',
             ),
         ));
         

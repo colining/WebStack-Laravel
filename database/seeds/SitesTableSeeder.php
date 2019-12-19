@@ -3581,6 +3581,54 @@ class SitesTableSeeder extends Seeder
             'created_at' => '2019-12-10 09:10:01',
             'updated_at' => '2019-12-10 09:10:01',
         ),
+        297 => 
+        array (
+            'id' => 308,
+            'order' => 299,
+            'category_id' => 37,
+            'title' => 'Qdramas在线观看',
+            'thumb' => 'images/ab208a7c3956bce06c61148b3a6cc82e.png',
+            'describe' => '多源在线观看',
+            'url' => 'https://qdramas.net/cn191126/',
+            'created_at' => '2019-12-19 08:19:15',
+            'updated_at' => '2019-12-19 08:27:00',
+        ),
+        298 => 
+        array (
+            'id' => 310,
+            'order' => 298,
+            'category_id' => 37,
+            'title' => '独播库',
+            'thumb' => 'images/db9e5184804380b3ee5490af434d03a0.png',
+            'describe' => '1080p 超清无广告',
+            'url' => 'https://www.duboku.net/voddetail-300.html',
+            'created_at' => '2019-12-19 08:21:50',
+            'updated_at' => '2019-12-19 08:27:00',
+        ),
+        299 => 
+        array (
+            'id' => 312,
+            'order' => 300,
+            'category_id' => 37,
+            'title' => '完美看看',
+            'thumb' => 'images/8d67bb728a3219722b60c95efff10246.png',
+            'describe' => '更新最快，人数众多，更新时略卡',
+            'url' => 'https://www.wanmeikk.me/project/1426.html',
+            'created_at' => '2019-12-19 08:23:46',
+            'updated_at' => '2019-12-19 08:37:33',
+        ),
+        300 => 
+        array (
+            'id' => 313,
+            'order' => 301,
+            'category_id' => 37,
+            'title' => 'iFun',
+            'thumb' => 'images/473c8001eecd3e352f0c0f4966c852dc.png',
+            'describe' => '简洁的1080p观影体验',
+            'url' => 'http://ifuns.tv/detail?id=56675',
+            'created_at' => '2019-12-19 08:36:20',
+            'updated_at' => '2019-12-19 08:36:20',
+        ),
     ));
         
         
