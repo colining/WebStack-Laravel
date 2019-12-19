@@ -3,6 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="viggo">
+    <meta name="referrer" content="no-referrer" />
     <title>{{ env('APP_NAME') }}</title>
     <meta name="keywords" content="">
     <meta name="description" content="无火余灰| 导航站 汇集知乎智慧，收集国内外新奇网站，壁纸网站，实用网站，摸鱼网站，定期更新最有趣的精选网站, wuhuoyuhui.cn">
@@ -17,7 +18,6 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'UA-153987603-1');
     </script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
