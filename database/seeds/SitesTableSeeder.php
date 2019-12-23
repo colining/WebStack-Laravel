@@ -3584,14 +3584,14 @@ class SitesTableSeeder extends Seeder
         297 => 
         array (
             'id' => 308,
-            'order' => 299,
+            'order' => 304,
             'category_id' => 37,
             'title' => 'Qdramas在线观看',
             'thumb' => 'images/ab208a7c3956bce06c61148b3a6cc82e.png',
             'describe' => '多源在线观看',
             'url' => 'https://qdramas.net/cn191126/',
             'created_at' => '2019-12-19 08:19:15',
-            'updated_at' => '2019-12-19 08:27:00',
+            'updated_at' => '2019-12-21 16:46:20',
         ),
         298 => 
         array (
@@ -3620,14 +3620,62 @@ class SitesTableSeeder extends Seeder
         300 => 
         array (
             'id' => 313,
-            'order' => 301,
+            'order' => 305,
             'category_id' => 37,
             'title' => 'iFun',
             'thumb' => 'images/473c8001eecd3e352f0c0f4966c852dc.png',
             'describe' => '简洁的1080p观影体验',
             'url' => 'http://ifuns.tv/detail?id=56675',
             'created_at' => '2019-12-19 08:36:20',
-            'updated_at' => '2019-12-19 08:36:20',
+            'updated_at' => '2019-12-21 16:46:20',
+        ),
+        301 => 
+        array (
+            'id' => 314,
+            'order' => 299,
+            'category_id' => 37,
+            'title' => '手机看庆余年',
+            'thumb' => 'images/e4a04cd32ca00ea25ec6954f3739875c.png',
+            'describe' => '手机在线观看',
+            'url' => 'http://www.aiaike.com/play/53466/1/36.html',
+            'created_at' => '2019-12-20 04:30:44',
+            'updated_at' => '2019-12-20 04:33:42',
+        ),
+        302 => 
+        array (
+            'id' => 315,
+            'order' => 301,
+            'category_id' => 37,
+            'title' => '海外影视',
+            'thumb' => 'images/288cd30e5fba5e43b7ad6f6598598fa0.png',
+            'describe' => '海外影视',
+            'url' => 'https://www.haiwaiyy.com/vod-play-id-60991-src-1-num-46.html',
+            'created_at' => '2019-12-21 16:43:29',
+            'updated_at' => '2019-12-21 16:46:20',
+        ),
+        303 => 
+        array (
+            'id' => 316,
+            'order' => 302,
+            'category_id' => 37,
+            'title' => '快看66',
+            'thumb' => 'images/9a5f79ddd17bba69baf8d7d6133e6f04.png',
+            'describe' => '快看66',
+            'url' => 'https://www.kuaikan66.com/Domestic/qingyunian/0-46.html',
+            'created_at' => '2019-12-21 16:44:00',
+            'updated_at' => '2019-12-21 16:46:20',
+        ),
+        304 => 
+        array (
+            'id' => 317,
+            'order' => 303,
+            'category_id' => 37,
+            'title' => '豌豆影视',
+            'thumb' => 'images/b9f7e590e611ce4e5d1ed95f5f300d85.png',
+            'describe' => '豌豆影视',
+            'url' => 'http://www.wandouys.com/video/play/75470-1-46.html',
+            'created_at' => '2019-12-21 16:45:45',
+            'updated_at' => '2019-12-21 16:46:20',
         ),
     ));
         
