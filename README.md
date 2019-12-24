@@ -92,3 +92,21 @@ $ php artisan webstack:clean
 ## License
 
 MIT
+sortable()
+# 同步数据到seed
+php artisan iseed sites --force
+php artisan iseed categories --force
+
+
+
+#########################
+docker exec -it baota bash
+php artisan migrate:refresh --seed
+
+'id' => (\d*)
+
+
+
+'id' => $1,
+\t\t\t'order' => $1
+
