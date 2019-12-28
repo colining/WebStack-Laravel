@@ -25583,6 +25583,16 @@ button.toast-close-button {
     /*margin-bottom: 20px;*/
     /*bottom: 0;*/
 }
+.submit-tag .wechat{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.submit-tag .wechat .wechat-span{
+    color: wheat;
+    font-size: large;
+    padding: 10px;
+}
+
 .user-info-navbar .user-info-menu.left-links .weather{
     display: flex;/*Flex布局*/
     display: -webkit-flex; /* Safari */
