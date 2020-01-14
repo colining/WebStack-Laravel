@@ -98,7 +98,7 @@
 
         <div>
             <div style="text-align: center;">
-                <span style="font-size: 30px;">扫码关注，获取微信工具下载地址~</span>
+                <span style="font-size: 30px;">扫码关注 并回复【wechat】，获取微信聊天记录导出工具下载地址~</span>
             </div>
             <div style="text-align: center;margin-top: 20px;">
                 <img src="img/wechat.jpg" alt="" style="margin: 0 auto;">

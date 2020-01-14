@@ -52,7 +52,8 @@
                     <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
                 </a>
                 <div class="wechat">
-                    <span class="wechat-span">扫码关注，享福利！</span>
+                    <span class="wechat-span">扫码关注,回复【wechat】</span><br/>
+                    <span class="wechat-span">获取微信聊天记录导出工具下载地址~</span>
                     <div style="margin-top: 20px">
                         <img src="{{ asset('img/wechat.jpg') }}" width="80%" alt=""/>
                     </div>
