@@ -100,7 +100,7 @@
 
         <div id="root">
             <?php
-            for ($i=1; $i<=57; $i++)
+            for ($i=1; $i<=46; $i++)
             {
                 echo "
                      <div class=\"item\">
