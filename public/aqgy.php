@@ -7,7 +7,7 @@
     <title>WebStack</title>
     <meta name="keywords" content="">
     <meta name="description" content="无火余灰| 导航站 汇集知乎智慧，收集国内外新奇网站，壁纸网站，实用网站，摸鱼网站，定期更新最有趣的精选网站, wuhuoyuhui.cn">
-    <link rel="shortcut icon" href="http://127.0.0.1:8000/img/favicon.png">
+    <link rel="shortcut icon" href="/img/favicon.png">
     <link rel="preload" href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic" as="font">
     <link rel="stylesheet" href="/css/app.css?id=08f4ad15e83f6df13efe">
     <link rel="stylesheet" href="https://widget.heweather.net/simple/static/css/he-simple.css?v=1.2"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://widget.heweather.net/simple/static/js/he-simple.js?v=1.2"></script><script src="/js/app.js?id=f9f0907779c993f5cbc4"></script>
@@ -30,13 +30,13 @@
     <meta property="og:url" content="http://www.webstack.cc/">
     <meta property="og:title" content="无火余灰| 导航站 汇集知乎智慧，收集国内外新奇网站，壁纸网站，实用网站，摸鱼网站，定期更新最有趣的精选网站, wuhuoyuhui.cn">
     <meta property="og:description" content="无火余灰,网址导航,知乎网址导航,灵感新奇网站,实用工具,新媒体网址导航,定期更新最有趣的精选网站, wuhuoyuhui.cn">
-    <meta property="og:image" content="http://127.0.0.1:8000/img/webstack_banner_cn.png">
+    <meta property="og:image" content="/img/webstack_banner_cn.png">
     <meta property="og:site_name" content="无火余灰| 导航站 汇集知乎智慧，收集国内外新奇网站,创意导航,壁纸网站,实用网站,摸鱼网站,定期更新最有趣的精选网站, wuhuoyuhui.cn">
     <!-- / Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="无火余灰| 导航站 汇集知乎智慧，收集国内外新奇网站，壁纸网站，实用网站，摸鱼网站，定期更新最有趣的精选网站, wuhuoyuhui.cn">
     <meta name="twitter:description" content="无火余灰,网址导航,知乎网址导航,灵感新奇网站,实用工具,新媒体网址导航,定期更新最有趣的精选网站, wuhuoyuhui.cn">
-    <meta property="og:image" content="http://127.0.0.1:8000/img/webstack_banner_cn.png">
+    <meta property="og:image" content="/img/webstack_banner_cn.png">
     <style type="text/css">.amap-container{cursor:url(https://webapi.amap.com/theme/v1.3/openhand.cur),default;}.amap-drag{cursor:url(https://webapi.amap.com/theme/v1.3/closedhand.cur),default;}</style></head>
 <body class="page-body" data-gr-c-s-loaded="true" style="">
 <!-- skin-white -->
@@ -48,10 +48,10 @@
                 <!-- logo -->
                 <div class="logo">
                     <a href="/" class="logo-expanded">
-                        <img src="http://127.0.0.1:8000/img/logo@2x.png" width="100%" alt="">
+                        <img src="/img/logo@2x.png" width="100%" alt="">
                     </a>
                     <a href="/" class="logo-collapsed">
-                        <img src="http://127.0.0.1:8000/img/logo-collapsed@2x.png" width="40" alt="">
+                        <img src="/img/logo-collapsed@2x.png" width="40" alt="">
                     </a>
                 </div>
                 <div class="mobile-menu-toggle visible-xs">
@@ -117,7 +117,7 @@
                         <span class="wechat-span">扫码关注,回复【wechat】</span><br>
                         <span class="wechat-span">获取微信聊天记录导出工具下载地址~</span>
                         <div style="margin-top: 20px">
-                            <img src="http://127.0.0.1:8000/img/wechat.jpg" width="80%" alt="">
+                            <img src="/img/wechat.jpg" width="80%" alt="">
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                     </a>
                 </li>
                 <li class="weather" style="min-height: 75px;">
-                    <div data-v-2291bda3="" id="he-plugin-simple" style="position: relative;"><script data-v-2291bda3="" type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.14&amp;key=e2b04289e870b005374ee030148d64fd"></script> <div data-v-2291bda3="" class="s-sticker" style="font-size: 1.4em; cursor: pointer; padding: 10px; background-color: transparent; border-radius: 5px;"><div data-v-2291bda3="" style="width: 50%;"></div> <div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-tmp module" style="font-size: 16px; color: rgb(74, 74, 74); vertical-align: middle;">-2°C</div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-city module" style="font-size: 16px; color: rgb(74, 74, 74); vertical-align: middle;">北京</div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-cond module" style="vertical-align: middle;"><img data-v-7d48daab="" src="https://cdn.heweather.com/img/plugin/190516/icon/c/100n.png" style="width: 24px; height: 24px;"></div><div data-v-7d48daab="" data-v-2291bda3="" class="module" style="vertical-align: middle;"></div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-qlty module" style="color: rgb(148, 206, 111); font-size: 16px; vertical-align: middle;">优</div> <div data-v-2291bda3="" style="width: 50%;"></div></div> <div data-v-2291bda3=""><!----></div></div>
+                    <div data-v-2291bda3="" id="he-plugin-simple" style="position: relative;"><script data-v-2291bda3="" type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.14&amp;key=e2b04289e870b005374ee030148d64fd"></script> <div data-v-2291bda3="" class="s-sticker" style="font-size: 1.4em; cursor: pointer; padding: 10px; background-color: transparent; border-radius: 5px;"><div data-v-2291bda3="" style="width: 50%;"></div> <div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-tmp module" style="font-size: 16px; color: rgb(74, 74, 74); vertical-align: middle;">-4°C</div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-city module" style="font-size: 16px; color: rgb(74, 74, 74); vertical-align: middle;">北京</div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-cond module" style="vertical-align: middle;"><img data-v-7d48daab="" src="https://cdn.heweather.com/img/plugin/190516/icon/c/100n.png" style="width: 24px; height: 24px;"></div><div data-v-7d48daab="" data-v-2291bda3="" class="module" style="vertical-align: middle;"></div><div data-v-7d48daab="" data-v-2291bda3="" class="s-sticker-qlty module" style="color: rgb(228, 198, 0); font-size: 16px; vertical-align: middle;">良</div> <div data-v-2291bda3="" style="width: 50%;"></div></div> <div data-v-2291bda3=""><!----></div></div>
                     <script type="text/javascript" src="/js/weather.js"></script>
                     <script src="https://widget.heweather.net/simple/static/js/he-simple-common.js?v=1.1"></script>
                 </li>
@@ -339,6 +339,62 @@
                                 <strong>豌豆影视</strong>
                             </a>
                             <p class="overflowClip_2">豌豆影视</p>
+                        </div>
+                    </div>
+                </div>
+            </div></div><div class="row">                    <div class="col-sm-3">
+                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.olevod.com/?m=vod-play-id-15324-src-1-num-23.html', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://www.olevod.com/?m=vod-play-id-15324-src-1-num-23.html">
+                    <div class="xe-comment-entry">
+                        <a class="xe-user-img">
+                            <img src="/uploads/images/7431383236cda808a29fe56ecb00b1f6.png" class="img-circle" width="50">
+                        </a>
+                        <div class="xe-comment">
+                            <a href="#" class="xe-user-name overflowClip_1">
+                                <strong>欧乐影视</strong>
+                            </a>
+                            <p class="overflowClip_2">欧乐影视</p>
+                        </div>
+                    </div>
+                </div>
+            </div>                    <div class="col-sm-3">
+                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://m.dlili.tv/vplay/NjQwNy0xLTI5.html', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://m.dlili.tv/vplay/NjQwNy0xLTI5.html">
+                    <div class="xe-comment-entry">
+                        <a class="xe-user-img">
+                            <img src="/uploads/images/0084d0198d299dcfd1be69542813c3f4.png" class="img-circle" width="50">
+                        </a>
+                        <div class="xe-comment">
+                            <a href="#" class="xe-user-name overflowClip_1">
+                                <strong>滴丽丽</strong>
+                            </a>
+                            <p class="overflowClip_2">滴丽丽</p>
+                        </div>
+                    </div>
+                </div>
+            </div>                    <div class="col-sm-3">
+                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://www.dadatutu.com/gc/aiqinggongyu5/play-1-35.html', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://www.dadatutu.com/gc/aiqinggongyu5/play-1-35.html">
+                    <div class="xe-comment-entry">
+                        <a class="xe-user-img">
+                            <img src="/uploads/images/0b3729b9826efe146f25a8d4efdde07a.png" class="img-circle" width="50">
+                        </a>
+                        <div class="xe-comment">
+                            <a href="#" class="xe-user-name overflowClip_1">
+                                <strong>达达兔</strong>
+                            </a>
+                            <p class="overflowClip_2">达达兔</p>
+                        </div>
+                    </div>
+                </div>
+            </div>                    <div class="col-sm-3">
+                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.heiye.cc/play/36265-0-0.html', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.heiye.cc/play/36265-0-0.html">
+                    <div class="xe-comment-entry">
+                        <a class="xe-user-img">
+                            <img src="/uploads/images/362d017cc5b50ea26816293733c7b291.png" class="img-circle" width="50">
+                        </a>
+                        <div class="xe-comment">
+                            <a href="#" class="xe-user-name overflowClip_1">
+                                <strong>黑夜影视</strong>
+                            </a>
+                            <p class="overflowClip_2">黑夜影视</p>
                         </div>
                     </div>
                 </div>
